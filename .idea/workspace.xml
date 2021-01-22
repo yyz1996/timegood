@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="885d24d9-624a-4879-bc3d-9a1f13c063f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\DZSP\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lBtBlYPxWNgTAa4g9pHSBWlZrl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/实验室项目/新建文本文档.txt" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="timegoods" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DZSP\dzsp\src\main\java\timegoods" />
+      <recent name="D:\DZSP\dzsp\src\main\java\DFT" />
+      <recent name="D:\DZSP\dzsp\src\main\java" />
+      <recent name="D:\DZSP\dzsp\src\main\java\time_goods" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CommodityTransaction">
+    <configuration name="CommodityTransaction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timegoods.CommodityTransaction" />
+      <module name="dzsp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="timegoods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="data_to_sql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timegoods.data_to_sql" />
+      <module name="dzsp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="timegoods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gooddata_to_sql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timegoods.gooddata_to_sql" />
+      <module name="dzsp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="timegoods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="timedata_to_sql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timegoods.timedata_to_sql" />
+      <module name="dzsp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="timegoods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="timetest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timegoods.timetest2" />
+      <module name="dzsp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="timegoods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CommodityTransaction" />
+        <item itemvalue="Application.timetest2" />
+        <item itemvalue="Application.gooddata_to_sql" />
+        <item itemvalue="Application.timedata_to_sql" />
+        <item itemvalue="Application.data_to_sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="885d24d9-624a-4879-bc3d-9a1f13c063f2" name="Default Changelist" comment="" />
+      <created>1607082178850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607082178850</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="521" y="113" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1607083492881">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="521" y="113" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1600.870@0.0.1600.870" timestamp="1607083492881" />
+    <state x="580" y="190" key="FileChooserDialogImpl" timestamp="1611235653976">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="580" y="190" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1611235653976" />
+    <state width="1557" height="281" key="GridCell.Tab.0.bottom" timestamp="1611235679191">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="281" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1611235679191" />
+    <state width="1557" height="281" key="GridCell.Tab.0.center" timestamp="1611235679190">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="281" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1611235679190" />
+    <state width="1557" height="281" key="GridCell.Tab.0.left" timestamp="1611235679190">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="281" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1611235679190" />
+    <state width="1557" height="281" key="GridCell.Tab.0.right" timestamp="1611235679191">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="281" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1611235679191" />
+    <state width="1557" height="254" key="GridCell.Tab.1.bottom" timestamp="1610800422596">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="254" key="GridCell.Tab.1.bottom/0.0.1600.870@0.0.1600.870" timestamp="1610800422596" />
+    <state width="1557" height="254" key="GridCell.Tab.1.center" timestamp="1610800422596">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="254" key="GridCell.Tab.1.center/0.0.1600.870@0.0.1600.870" timestamp="1610800422596" />
+    <state width="1557" height="254" key="GridCell.Tab.1.left" timestamp="1610800422596">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="254" key="GridCell.Tab.1.left/0.0.1600.870@0.0.1600.870" timestamp="1610800422596" />
+    <state width="1557" height="254" key="GridCell.Tab.1.right" timestamp="1610800422596">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="254" key="GridCell.Tab.1.right/0.0.1600.870@0.0.1600.870" timestamp="1610800422596" />
+    <state x="330" y="90" key="Maven.ArtifactSearchDialog" timestamp="1608122990640">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="330" y="90" key="Maven.ArtifactSearchDialog/0.0.1600.870@0.0.1600.870" timestamp="1608122990640" />
+    <state x="280" y="9" key="SettingsEditor" timestamp="1611235555189">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="280" y="9" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1611235555189" />
+    <state x="480" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1610627164421">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="480" y="259" key="com.intellij.ide.util.TipDialog/0.0.1600.870@0.0.1600.870" timestamp="1610627164421" />
+    <state x="463" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1609316141646">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="463" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1600.870@0.0.1600.870" timestamp="1609316141646" />
+  </component>
+</project>
